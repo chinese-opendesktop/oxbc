@@ -1,0 +1,31 @@
+Name
+----
+oxbc
+
+
+Discription
+-----------
+Collection of bc-like command line calculators
+written in various programming languages.
+
+
+Install
+-----------
+make
+make install
+
+
+License
+-----------
+Source codes are released under MIT License.
+
+
+Authors
+------
+bc-simon-cpp: 		written in C++(g++) by Simon Sun
+bc-robert-c:		written in C(gcc) by Robert Wei
+bc-john-js:		written in JavaScript(nodejs) by John Wu
+bc-kevin-js:		written in JavaScript(nodejs) by Kevin Chen
+bc-simon-java:		written in Java(openjdk) by Simon Sun
+bc-robert-python:	written in python(python 2) by Robert Wei
+bc-william-sh:		written in ShellScript(bash) by William Chao
